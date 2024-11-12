@@ -1,0 +1,6 @@
+{11 , NUM , 1}
+{x16 , ID , 1}
+{134 , NUM , 2}
+{x16 , ID , 2}
+{ABCGx16 , ID , 3}
+{ , END_OF_FILE , 5}
